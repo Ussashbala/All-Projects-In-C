@@ -1,0 +1,55 @@
+
+
+Name: Ussash Bala
+Clg: JIS University
+Roll no: 23CS2021091
+Date of birth: 16-03-2005
+Card no: bkl1001
+
+Name: Netya Gupta
+Clg: JIS University
+Roll no: 19CS2021009
+Date of birth: 30-04-2001
+Card no: bkl1005
+
+Name: Ussash Bala
+Clg: JIS University
+Roll no: 23CS2021091
+Date of birth: 16-03-2005
+Card no: bkl1001
+
+Name: Netya Gupta
+Clg: JIS University
+Roll no: 19CS2021009
+Date of birth: 30-04-2001
+Card no: bkl1005
+
+Name: Sweeta singh
+Clg: JIS University
+Roll no: 21CS2021034
+Date of birth: 12-11-2003
+Card no: bkl1003
+
+Name: Sweeta singh
+Clg: JIS University
+Roll no: 21CS2021034
+Date of birth: 12-11-2003
+Card no: bkl1003
+
+Name: Ussash Bala
+Clg: JIS University
+Roll no: 23CS2021091
+Date of birth: 16-03-2005
+Card no: bkl1001
+
+Name: Neha kumari
+Clg: JIS University
+Roll no: 22CS2021056
+Date of birth: 05-09-2004
+Card no: bkl1002
+
+Name: Soumadip Biswas
+Clg: JIS University
+Roll no: 20CS2021021
+Date of birth: 25-07-2002
+Card no: bkl1004

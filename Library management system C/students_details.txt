@@ -1,0 +1,114 @@
+bkl1001
+Name: Ussash Bala
+Clg: JIS University
+Roll no: 23CS2021091
+Date of birth: 16-03-2005
+Card no: bkl1001*
+bkl1002
+Name: Neha kumari
+Clg: JIS University
+Roll no: 22CS2021056
+Date of birth: 05-09-2004
+Card no: bkl1002*
+bkl1003
+Name: Sweeta singh
+Clg: JIS University
+Roll no: 21CS2021034
+Date of birth: 12-11-2003
+Card no: bkl1003*
+bkl1004
+Name: Soumadip Biswas
+Clg: JIS University
+Roll no: 20CS2021021
+Date of birth: 25-07-2002
+Card no: bkl1004*
+bkl1005
+Name: Netya Gupta
+Clg: JIS University
+Roll no: 19CS2021009
+Date of birth: 30-04-2001
+Card no: bkl1005*
+bkl1006
+Name: Nisha Kapoor
+Clg: RST Institute of Engineering
+Roll no: 18CS2021078
+Date of birth: 14-02-2000
+Card no: bkl1006*
+bkl1007
+Name: Sameer Khan
+Clg: UVW College of Technology
+Roll no: 17CS2021055
+Date of birth: 20-08-1999
+Card no: bkl1007*
+bkl1008
+Name: Swati Mishra
+Clg: EFG Engineering Institute
+Roll no: 16CS2021032
+Date of birth: 07-06-1998
+Card no: bkl1008*
+bkl1009
+Name: Akash Verma
+Clg: GHI University
+Roll no: 15CS2021019
+Date of birth: 23-12-1997
+Card no: bkl1009*
+bkl1010
+Name: Deepika Sharma
+Clg: TUV College of Engineering
+Roll no: 14CS2021006
+Date of birth: 18-10-1996
+Card no: bkl1010*
+bkl1011
+Name: Rajesh Kumar
+Clg: WXY Institute of Technology
+Roll no: 13CS2021097
+Date of birth: 29-05-1995
+Card no: bkl1011*
+bkl1012
+Name: Ayesha Siddiqui
+Clg: OPQ Engineering College
+Roll no: 12CS2021084
+Date of birth: 03-01-1994
+Card no: bkl1012*
+bkl1013
+Name: Karan Singh
+Clg: JKL University
+Roll no: 11CS2021061
+Date of birth: 11-09-1993
+Card no: bkl1013*
+bkl1014
+Name: Ananya Das
+Clg: MNO College of Engineering
+Roll no: 10CS2021048
+Date of birth: 27-03-1992
+Card no: bkl1014*
+bkl1015
+Name: Prakash Raj
+Clg: STU Institute of Technology
+Roll no: 09CS2021035
+Date of birth: 02-11-1991
+Card no: bkl1015*
+bkl1016
+Name: Shivani Gupta
+Clg: BCD Engineering Institute
+Roll no: 08CS2021022
+Date of birth: 15-07-1990
+Card no: bkl1016*
+bkl1017
+Name: Rohit Sharma
+Clg: QWE University
+Roll no: 07CS2021009
+Date of birth: 20-04-1989
+Card no: bkl1017*
+bkl1018
+Name: Neha Patel
+Clg: ZXC College of Technology
+Roll no: 06CS2021096
+Date of birth: 04-12-1988
+Card no: bkl1018*
+bkl1019
+Name: Manish Singh
+Clg: FGH Engineering College
+Roll no: 05CS2021073
+Date of birth: 09-08-1987
+Card no: bkl1019*
