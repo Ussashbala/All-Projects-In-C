@@ -1,0 +1,240 @@
+boc110
+Title: Analog computation and simulation
+Author name: Rajaraman,
+Year of Publication: 1971
+No of books available: 5
+Serial No: boc110#
+boc111
+Title: Multiprocessor operating system
+Author name: Joseph, Mathai; Prasad, V. R; Natarajan, N.
+Year of Publication: 1984
+No of books available: 4
+Serial No: boc111#
+
+boc112
+Title: Introduction to Algorithms
+Author name: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
+Year of Publication: 2009
+No of books available: 0
+Serial No: boc112#
+
+boc113
+Title: Artificial Intelligence: A Modern Approach
+Author name: Stuart Russell and Peter Norvig
+Year of Publication: 2020
+No of books available: 3
+Serial No: boc113#
+
+boc114
+Title: Operating System Concepts
+Author name: Abraham Silberschatz, Peter B. Galvin, and Greg Gagne
+Year of Publication: 2018
+No of books available: 4
+Serial No: boc114#
+
+boc115
+Title: Database System Concepts
+Author name: Abraham Silberschatz, Henry F. Korth, and S. Sudarshan
+Year of Publication: 2019
+No of books available: 0
+Serial No: boc115#
+
+boc116
+Title: Compilers: Principles, Techniques, and Tools
+Author name: Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman
+Year of Publication: 2006
+No of books available: 2
+Serial No: boc116#
+
+boc117
+Title: Computer Organization and Design: The Hardware/Software Interface
+Author name: David A. Patterson and John L. Hennessy
+Year of Publication: 2018
+No of books available: 1
+Serial No: boc117#
+
+boc118
+Title: The C Programming Language
+Author name: Brian W. Kernighan and Dennis M. Ritchie
+Year of Publication: 1988
+No of books available: 3
+Serial No: boc118#
+
+boc119
+Title: Computer Graphics: Principles and Practice
+Author name: James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes
+Year of Publication: 2013
+No of books available: 3
+Serial No: boc119#
+
+boc120
+Title: Introduction to the Theory of Computation
+Author name: Michael Sipser
+Year of Publication: 2012
+No of books available: 2
+Serial No: boc120#
+
+boc121
+Title: "Cosmos"
+Author name: Carl Sagan
+Year of Publication: 1980
+No of books available: 2
+Serial No: boc121#
+
+boc122
+Title: "A Brief History of Time"
+Author name: Stephen Hawking
+Year of Publication: 1988
+No of books available: 2
+Serial No: boc122#
+
+boc123
+Title: "The Selfish Gene"
+Author name: Richard Dawkins
+Year of Publication: 1976
+No of books available: 1
+Serial No: boc123#
+
+boc124
+Title: "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"
+Author name: Brian Greene
+Year of Publication: 1999
+No of books available: 2
+Serial No: boc124#
+
+boc125
+Title: "The Double Helix: A Personal Account of the Discovery of the Structure of DNA"
+Author name: James D. Watson
+Year of Publication: 1968
+No of books available: 1
+Serial No: boc125#
+
+boc126
+Title: "Gödel, Escher, Bach: An Eternal Golden Braid"
+Author name: Douglas Hofstadter
+Year of Publication: 1979
+No of books available: 1
+Serial No: boc126#
+
+boc127
+Title: "The Emperor of All Maladies: A Biography of Cancer"
+Author name: Siddhartha Mukherjee
+Year of Publication: 2010
+No of books available: 3
+Serial No: boc127#
+
+boc128
+Title: "The Structure of Scientific Revolutions"
+Author name: Thomas S. Kuhn
+Year of Publication: 1962
+No of books available: 2
+Serial No: boc128#
+
+boc129
+Title: "Sapiens: A Brief History of Humankind"
+Author name: Yuval Noah Harari
+Year of Publication: 2011
+No of books available: 1
+Serial No: boc129#
+
+boc130
+Title: "Genome: The Autobiography of a Species in 23 Chapters"
+Author name: Matt Ridley
+Year of Publication: 1999
+No of books available: 3
+Serial No: boc130#
+
+boc131
+Title: "The Origin of Species"
+Author name: Charles Darwin
+Year of Publication: 1859
+No of books available: 0
+Serial No: boc131#
+
+boc132
+Title: "Silent Spring"
+Author name: Rachel Carson
+Year of Publication: 1962
+No of books available: 1
+Serial No: boc132#
+
+boc133
+Title: "Thinking, Fast and Slow"
+Author name: Daniel Kahneman
+Year of Publication: 2011
+No of books available: 1
+Serial No: boc133#
+
+boc134
+Title: "The Feynman Lectures on Physics"
+Author name: Richard P. Feynman, Robert B. Leighton, Matthew Sands
+Year of Publication: 1963
+No of books available: 1
+Serial No: boc134#
+
+
+boc10
+Title:yyyyyy
+Writer:tttttttttt
+Publish:5235
+No of books available:78
+Serial No::boc10#
+
+boc10
+Title:my book
+Writer:bkalaa
+Publish:5213
+No of books available:5
+Serial No::boc10#
+
+
+boc10
+Title:kkk
+Writer:pp
+Publish:56
+No of books available:8
+Serial No::boc10#
+Title:iiiiiiiiiii
+Writer:oooooooooooo
+Publish:4545
+No of books available:5
+Title:
+Writer:kkk
+Publish:5265
+No of books available:547
+Title:gita
+Writer:lrishna
+Publish:5200
+No of books available:100
+Title:let
+Writer:us
+Publish:c
+No of books available:kj
+Title:lll
+Writer:yyuy
+Publish:56549
+No of books available:4547
+Title:
+Writer:kkkkkk
+Publish:iiiii
+No of books available:love
+Title:my book 5
+Writer:ussash bala
+Publish:2024
+No of books available:5
+Title:let us c
+Writer:max
+Publish:2014
+No of books available:5
+Title:kkkkk kk
+Writer:iuh
+Publish:2014
+No of books available:5
+Title:hhhhhhh gggg
+Writer:ussSH BALA
+Publish:2024
+No of books available:5
+Title:9
+Writer:9
+Publish:5
+No of books available:4
