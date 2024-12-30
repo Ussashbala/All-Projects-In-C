@@ -1,5 +1,9 @@
 #include<stdio.h>
-//@U6as
+//@U6as 
+// Ussash Bala 
+// B.Tech CSE Jis University 
+// email: balaussash6@gmail.com
+
 
 void love();
 void love_2();
@@ -17,11 +21,7 @@ break;
 }
 }
 while(1);
-
 love();
-
-
-
 return 0;
 }
 void love(){
@@ -33,14 +33,7 @@ void love(){
 	}
 	printf("\n\n  Thank you for cooperating with Me.Have a good day !\n\n\n");
 	}
-/*void love_2(){
-	printf("If you are a Psychopath press:1\n\nIf not press anything:\n\n");	
-	char ch ;
-	scanf("%c",&ch);
-	if (ch=='1'){
-		love();
-	}
-}*/
+
 void love3(){
 	printf("new line");
 }
